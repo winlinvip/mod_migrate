@@ -23,7 +23,7 @@ package options_test
 
 import (
 	"fmt"
-	oo "github.com/ossrs/go-oryx-lib/options"
+	oo "github.com/winlinvip/mod_migrate/options"
 	"os"
 )
 

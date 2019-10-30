@@ -4,7 +4,7 @@ package errors_test
 import (
 	"fmt"
 
-	"github.com/ossrs/go-oryx-lib/errors"
+	"github.com/winlinvip/mod_migrate/errors"
 )
 
 func ExampleNew() {

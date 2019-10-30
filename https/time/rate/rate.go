@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ossrs/go-oryx-lib/https/net/context"
+	"github.com/winlinvip/mod_migrate/https/net/context"
 )
 
 // Limit defines the maximum frequency of some events.

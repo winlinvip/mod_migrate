@@ -34,7 +34,7 @@ package avc
 import (
 	"bytes"
 	"fmt"
-	"github.com/ossrs/go-oryx-lib/errors"
+	"github.com/winlinvip/mod_migrate/errors"
 )
 
 // @doc ISO_IEC_14496-10-AVC-2003.pdf at page 44, 7.3.1 NAL unit syntax

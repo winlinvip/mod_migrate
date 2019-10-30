@@ -29,7 +29,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ossrs/go-oryx-lib/https/jose/cipher"
+	"github.com/winlinvip/mod_migrate/https/jose/cipher"
 )
 
 // A generic RSA-based encrypter/verifier

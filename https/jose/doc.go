@@ -24,4 +24,4 @@ formats, and has optional support for multiple recipients.
 
 */
 // from gopkg.in/square/go-jose.v1
-package jose // import "github.com/ossrs/go-oryx-lib/https/jose"
+package jose // import "github.com/winlinvip/mod_migrate/https/jose"

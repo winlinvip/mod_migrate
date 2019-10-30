@@ -23,7 +23,7 @@ package aac_test
 
 import (
 	"fmt"
-	"github.com/ossrs/go-oryx-lib/aac"
+	"github.com/winlinvip/mod_migrate/aac"
 )
 
 func ExampleADTSImpl_Decode() {

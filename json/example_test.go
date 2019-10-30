@@ -25,7 +25,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	oj "github.com/ossrs/go-oryx-lib/json"
+	oj "github.com/winlinvip/mod_migrate/json"
 	"io/ioutil"
 )
 

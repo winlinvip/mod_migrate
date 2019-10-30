@@ -29,7 +29,7 @@ import (
 	"hash"
 	"io"
 
-	"github.com/ossrs/go-oryx-lib/https/jose/cipher"
+	"github.com/winlinvip/mod_migrate/https/jose/cipher"
 )
 
 // Random reader (stubbed out in tests)

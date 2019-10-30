@@ -166,10 +166,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ossrs/go-oryx-lib/https/net/context"
-	"github.com/ossrs/go-oryx-lib/https/time/rate"
+	"github.com/winlinvip/mod_migrate/https/net/context"
+	"github.com/winlinvip/mod_migrate/https/time/rate"
 
-	"github.com/ossrs/go-oryx-lib/https/acme"
+	"github.com/winlinvip/mod_migrate/https/acme"
 )
 
 const letsEncryptURL = "https://acme-v01.api.letsencrypt.org/directory"

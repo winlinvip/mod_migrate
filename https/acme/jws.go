@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/ossrs/go-oryx-lib/https/jose"
+	"github.com/winlinvip/mod_migrate/https/jose"
 )
 
 type jws struct {

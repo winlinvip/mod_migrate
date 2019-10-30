@@ -36,7 +36,7 @@
 // Contexts.
 // fork from golang.org/x/net/context
 //		from https://github.com/golang/net
-package context // import "github.com/ossrs/go-oryx-lib/https/net/context"
+package context // import "github.com/winlinvip/mod_migrate/https/net/context"
 
 import "time"
 

@@ -27,7 +27,7 @@ import (
 	"encoding"
 	"encoding/binary"
 	"fmt"
-	oe "github.com/ossrs/go-oryx-lib/errors"
+	oe "github.com/winlinvip/mod_migrate/errors"
 	"math"
 	"sync"
 )

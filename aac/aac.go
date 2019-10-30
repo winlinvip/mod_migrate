@@ -23,7 +23,7 @@
 package aac
 
 import (
-	"github.com/ossrs/go-oryx-lib/errors"
+	"github.com/winlinvip/mod_migrate/errors"
 )
 
 // The ADTS is a format of AAC.

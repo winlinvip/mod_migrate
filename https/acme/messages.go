@@ -5,7 +5,7 @@ package acme
 import (
 	"time"
 
-	"github.com/ossrs/go-oryx-lib/https/jose"
+	"github.com/winlinvip/mod_migrate/https/jose"
 )
 
 type directory struct {

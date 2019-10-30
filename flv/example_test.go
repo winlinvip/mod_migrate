@@ -22,7 +22,7 @@
 package flv_test
 
 import (
-	"github.com/ossrs/go-oryx-lib/flv"
+	"github.com/winlinvip/mod_migrate/flv"
 	"io"
 )
 

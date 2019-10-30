@@ -25,7 +25,7 @@ package flv
 import (
 	"bytes"
 	"errors"
-	"github.com/ossrs/go-oryx-lib/aac"
+	"github.com/winlinvip/mod_migrate/aac"
 	"io"
 	"strings"
 )

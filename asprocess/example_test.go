@@ -22,7 +22,7 @@
 package asprocess_test
 
 import (
-	oa "github.com/ossrs/go-oryx-lib/asprocess"
+	oa "github.com/winlinvip/mod_migrate/asprocess"
 	"os"
 	"os/signal"
 	"syscall"

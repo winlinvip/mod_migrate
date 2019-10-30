@@ -22,7 +22,7 @@
 package kxps_test
 
 import (
-	"github.com/ossrs/go-oryx-lib/kxps"
+	"github.com/winlinvip/mod_migrate/kxps"
 )
 
 func ExampleKrps() {

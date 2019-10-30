@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/ossrs/go-oryx-lib/websocket"
+	"github.com/winlinvip/mod_migrate/websocket"
 )
 
 var (

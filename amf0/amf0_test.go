@@ -24,7 +24,7 @@ package amf0
 import (
 	"bytes"
 	"encoding"
-	oe "github.com/ossrs/go-oryx-lib/errors"
+	oe "github.com/winlinvip/mod_migrate/errors"
 	"testing"
 )
 

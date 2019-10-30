@@ -24,7 +24,7 @@ package https_test
 import (
 	"crypto/tls"
 	"fmt"
-	"github.com/ossrs/go-oryx-lib/https"
+	"github.com/winlinvip/mod_migrate/https"
 	"net/http"
 )
 

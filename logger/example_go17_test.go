@@ -25,7 +25,7 @@ package logger_test
 
 import (
 	"context"
-	ol "github.com/ossrs/go-oryx-lib/logger"
+	ol "github.com/winlinvip/mod_migrate/logger"
 )
 
 func ExampleLogger_ContextGO17() {

@@ -24,7 +24,7 @@ package https
 import (
 	"crypto/tls"
 	"fmt"
-	"github.com/ossrs/go-oryx-lib/https/letsencrypt"
+	"github.com/winlinvip/mod_migrate/https/letsencrypt"
 	"runtime"
 	"strconv"
 	"strings"

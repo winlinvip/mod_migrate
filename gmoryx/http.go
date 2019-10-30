@@ -23,7 +23,7 @@
 package gmoryx
 
 import (
-	oh "github.com/ossrs/go-oryx-lib/http"
+	oh "github.com/winlinvip/mod_migrate/http"
 	"net/http"
 )
 

@@ -3,18 +3,18 @@ package main
 
 import (
 	"fmt"
-	_ "github.com/ossrs/go-oryx-lib/aac"
-	_ "github.com/ossrs/go-oryx-lib/asprocess"
-	_ "github.com/ossrs/go-oryx-lib/errors"
-	_ "github.com/ossrs/go-oryx-lib/flv"
-	_ "github.com/ossrs/go-oryx-lib/gmoryx"
-	_ "github.com/ossrs/go-oryx-lib/http"
-	_ "github.com/ossrs/go-oryx-lib/https"
-	_ "github.com/ossrs/go-oryx-lib/json"
-	_ "github.com/ossrs/go-oryx-lib/kxps"
-	_ "github.com/ossrs/go-oryx-lib/logger"
-	_ "github.com/ossrs/go-oryx-lib/options"
-	_ "github.com/ossrs/go-oryx-lib/websocket"
+	_ "github.com/winlinvip/mod_migrate/aac"
+	_ "github.com/winlinvip/mod_migrate/asprocess"
+	_ "github.com/winlinvip/mod_migrate/errors"
+	_ "github.com/winlinvip/mod_migrate/flv"
+	_ "github.com/winlinvip/mod_migrate/gmoryx"
+	_ "github.com/winlinvip/mod_migrate/http"
+	_ "github.com/winlinvip/mod_migrate/https"
+	_ "github.com/winlinvip/mod_migrate/json"
+	_ "github.com/winlinvip/mod_migrate/kxps"
+	_ "github.com/winlinvip/mod_migrate/logger"
+	_ "github.com/winlinvip/mod_migrate/options"
+	_ "github.com/winlinvip/mod_migrate/websocket"
 )
 
 const (

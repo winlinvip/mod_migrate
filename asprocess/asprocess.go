@@ -25,7 +25,7 @@
 package asprocess
 
 import (
-	ol "github.com/ossrs/go-oryx-lib/logger"
+	ol "github.com/winlinvip/mod_migrate/logger"
 	"os"
 	"os/signal"
 	"syscall"
